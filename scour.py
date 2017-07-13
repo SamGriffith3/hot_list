@@ -9,8 +9,10 @@ def search():
     # Determine the website(s) to be searched
     # website_1 = input("First Site: ")  Enable this later as user input variable
     website_1 = "http://www.jimshorkey.com/used-vehicles/#action=im_ajax_call&perform=get_results&_post_id=5&page=1&show_all_filters=false&order=ASC&orderby=price" 
-
-    r = requests.get(website_1).text
+    website_2 = "http://www.jimshorkey.com/new-vehicles/kia/#action=im_ajax_call&perform=get_results&_post_id=387&Location%5B%5D=Jim+Shorkey+Kia+North+Huntingdon+%3Cbr%3E724-241-3101&page=1&show_all_filters=false" 
+    
+    websites = (website_1, website_2)
+    r = requests.get(websites).text
 
     # Scraping the site
     local_csv_file = "C:\\Users\\{}\\Documents\\first.csv".format(getpass.getuser()) # So it works on both mine and yours
