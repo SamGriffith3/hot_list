@@ -7,28 +7,25 @@ import getpass
 
 def search():
     # Determine the website(s) to be searched
-    # city = input("Your Town/City: ")   Put this in later to replace "town" variable
-    website_1 = "http://www.jimshorkey.com/used-vehicles/#action=im_ajax_call&perform=get_results&_post_id=5&page=1&show_all_filters=false&order=ASC&orderby=price"
+    # website_1 = input("First Site: ")  Enable this later as user input variable
+    website_1 = "http://www.jimshorkey.com/used-vehicles/#action=im_ajax_call&perform=get_results&_post_id=5&page=1&show_all_filters=false&order=ASC&orderby=price" 
 
-    item_type = ""  # Changing so can do link combination better later
-    craigslist = 'http://' + town + ".craigslist.org/search/"
-
-    r = requests.get(craigslist + item_type).text
+    r = requests.get(website_1).text
 
     # Scraping the site
-    first_file = "C:\\Users\\{}\\Documents\\first.csv".format(getpass.getuser()) # So it works on both mine and yours
+    local_csv_file = "C:\\Users\\{}\\Documents\\first.csv".format(getpass.getuser()) # So it works on both mine and yours
 
     soup = BeautifulSoup(r, 'html.parser')
 
     data = []
-    if os.path.exists(first_file):
-        data = reusables.csv_to_list(first_file)  # Cheating because I already wrote this code
+    if os.path.exists(local_csv_file):
+        data = reusables.csv_to_list(local_csv_file)  # Cheating because I already wrote this code
 
     for item in soup.find_all('li', attrs={"class": "result-row"}):
         a_link = item.find('a', attrs={'class': 'result-title hdrlnk'})
         datetime = item.find('time', attrs={'class': 'result-date'})['datetime']
         new_row = [datetime, a_link.text,
-                   craigslist + a_link['href'].lstrip("/")]
+                   website_1 + a_link['href'].lstrip("/")]
         if new_row in data:
             continue
         data.append(new_row)
@@ -37,7 +34,7 @@ def search():
     for item in soup.find_all('postingbody', attrs={"class": "result-row"}):
         
 
-    reusables.list_to_csv(data[-100:], first_file)
+    reusables.list_to_csv(data[-100:], local_csv_file)
 
     print("done")
 
