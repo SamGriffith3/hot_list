@@ -28,12 +28,19 @@ top = Toplevel()
         print("New Hot List Lead")
         self.username = Entry(add_user)
         self.username.pack()
+        add_vehicle_interest():
+        
+    def add_vehicle_interest(self):
+        print("New Vehicle Interest")
         self.vehicle_type = Listbox(add_user)
         self.vehicle_type.pack()
         self.vehicle_type.insert(END, "Vehicle Type")
         for item in ["Sedan", "Coupe", "Truck", "Hatchback"]:
             self.vehicle_type.insert(END, item)
+        
 
+
+create_new_user()
 
 
 
