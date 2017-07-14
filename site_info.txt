@@ -1,0 +1,199 @@
+<div class="vehicle list-view used-vehicle publish" id="inventory-post-1G1ND52F45M246695" data-type="Used" data-year="2005" data-make="Chevrolet" data-model="Malibu" data-trim="">
+
+			<!-- VEHICLE IMAGE AND BADGES -->
+			<div class="vehicle-leftcol">
+				<!-- VEHICLE IMAGE -->
+<div class="vehicle-image">
+        <a href="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695">
+    <!-- IMAGE -->
+    	<img src="https://vehiclephotos.vauto.com/44/d4/87/d7-f070-4e57-8a28-0285a85513de/image-1.jpg" data-src="https://vehiclephotos.vauto.com/44/d4/87/d7-f070-4e57-8a28-0285a85513de/image-1.jpg" alt="Used Chevrolet Malibu " class="loaded">
+	        </a>
+    <div class="below-thumbnail hidden">
+	    <a href="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695">
+		    <i class="fa fa-search"></i> <span class="icon-label">Details</span>
+	    </a>
+	    <!-- MORE PHOTOS -->
+	    	        <a class="quick-look quicklook" href="#" rel="1G1ND52F45M246695">
+	        <div class="more-photos"><i class="fa fa-camera-retro"></i> <span class="icon-label">34 More</span></div>
+	        </a>
+	    
+	    			    <a class="save-things save-things-save" href="#" data-shoppingtitle="Save Vehicle" data-title="Pre-Owned 2005 Chevrolet Malibu " data-url="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695" data-remote-id="1G1ND52F45M246695" data-thumbnail-url="https://vehiclephotos.vauto.com/44/d4/87/d7-f070-4e57-8a28-0285a85513de/image-1.jpg" data-amount="4,499"><i class="fa fa-heart-o"></i> <span class="icon-label">Save</span></a>
+	        </div>
+
+    </div>
+<!-- // VEHICLE IMAGE -->
+				<!-- BADGES -->
+<div class="vehicle-badges">
+	    	</div>
+<!-- // BADGES --> 			</div>
+			<!--// VEHICLE IMAGE AND BADGES -->
+
+			<!-- VEHICLE DETAILS -->
+			<div class="vehicle-overview" id="1G1ND52F45M246695" title="2005 Chevrolet Malibu">
+				
+				<!-- VEHICLE TITLE -->
+<div class="vehicle-title clearfix">			
+    <h2>
+    <a href="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695">Pre-Owned 2005 Chevrolet Malibu </a>    </h2>		 	
+    <div class="vinstock">
+        <span>VIN: 1G1ND52F45M246695</span>
+        <span>STOCK #: K08002B</span>
+            </div>
+    
+    </div>
+<!-- // VEHICLE TITLE -->				
+				<div class="vehicle-content">
+					<!-- OPTIONS -->
+<div class="options">
+    <ul>
+    			        <li>
+                	            	                            	<span class="detail-label">Engine:</span>
+                                            	<span class="detail-content"> 2.2L 4-Cylinder SFI DOHC SFI 16V</span>
+                                                </li>
+        		        <li>
+                	            	                            	<span class="detail-label">Trans:</span>
+                                            	<span class="detail-content"> 4-Speed Automatic with Overdrive</span>
+                                                </li>
+        		        <li>
+                	            	                            	<span class="detail-label">Drivetrain:</span>
+                                            	<span class="detail-content"> FWD</span>
+                                                </li>
+        		        <li>
+                	            	                            	<span class="detail-label">Exterior:</span>
+                                            	<span class="detail-content"> Beige</span>
+                                                </li>
+        		        <li>
+                	            	                            	<span class="detail-label">Mileage:</span>
+                                            	<span class="detail-content"> 88,667</span>
+                                                </li>
+            </ul>
+</div>
+<!-- // options -->				 
+					<!-- specials -->
+<!-- // specials -->					<!-- pricing -->
+<div class="vehicle-price">
+     
+      
+  <div class="price-top">
+    
+	  	      
+	    		    
+		<div class="price-block our-price ">
+        <a href="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695">
+          <span class="price-label">
+            Price          </span>
+          <span class="price">
+             $4,499          </span>
+        </a>
+	    </div>
+			    
+			    
+	  
+				
+				
+		
+		
+
+					        
+  </div>  <!-- end price-top -->
+
+	
+
+
+
+	
+		<div class="price-block bottom-text">
+		Jim Shorkey Mitsubishi<br>724-616-0097			</div>
+    
+</div><!-- end div vehicle-price -->
+<!-- // pricing -->				</div>
+                 
+				<!-- DESCRIPTION TEXT -->
+<div class="vehicle-description-text">
+	
+Recent Arrival! 2005 Chevrolet Malibu Clean CARFAX. Illuminated entry,  Remote keyless entry. Odometer is 22927 miles below market average! 34/25 High
+... <a href="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695" class="show-more-btn" title="Used Chevrolet Malibu ">[&nbsp;more&nbsp;]</a></div>
+<!--//DESCRIPTION TEXT -->
+				 
+			</div>
+			<!--// VEHICLE DETAILS -->
+			
+			<!-- BUTTON BAR -->
+<div class="button-bar" data-button-vin="1G1ND52F45M246695">
+    <div class="button-bar-item first-button">
+    <div>
+
+        
+        
+		
+		
+            				<a target="_self" data-mobile-url="" class="" href="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695" id="" rel="">
+											<i class="fa fa-search"></i>						<span class="button-text">Details</span>
+															</a>
+            
+        
+    </div>
+</div>
+<div class="button-bar-item ">
+    <div>
+
+        
+        
+		
+		
+            				<a target="_self" data-mobile-url="javascript:return false;" class=" compare-vehicle" href="javascript:return false;" id="" rel="1G1ND52F45M246695">
+											<i class="fa fa-check-square-o"></i>						<span class="button-text">Compare</span>
+															</a>
+            
+        
+    </div>
+</div>
+<div class="button-bar-item ">
+    <div>
+
+        
+        
+		
+		            <a target="_self" data-mobile-url="" class=" save-things save-things-save" href="" id="" rel="1G1ND52F45M246695" data-shoppingtitle="Save Vehicle" data-title="Pre-Owned 2005 Chevrolet Malibu " data-remote-id="1G1ND52F45M246695" data-thumbnail-url="https://vehiclephotos.vauto.com/44/d4/87/d7-f070-4e57-8a28-0285a85513de/image-1.jpg" data-amount="4,499" data-url="http://www.jimshorkey.com/inventory/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695" data-year="2005" data-make="Chevrolet" data-model="Malibu" data-trim="">
+                                                	<i class="fa fa-heart-o"></i>                	<span class="button-text">Save</span>
+                                                </a>
+        
+    </div>
+</div>
+<div class="button-bar-item quick-look">
+    <div>
+
+        
+        
+		
+		
+            				<a target="_self" data-mobile-url="" class=" quicklook" href="#" id="" rel="1G1ND52F45M246695">
+											<i class="fa fa-camera-retro"></i>						<span class="button-text">Images</span>
+															</a>
+            
+        
+    </div>
+</div>
+<div class="button-bar-item ">
+    <div>
+
+        
+        
+		
+		            <a target="_blank" data-mobile-url="http://www.carfax.com/VehicleHistory/p/Report.cfx?partner=BDW_3&amp;vin=1G1ND52F45M246695" class="carfax" href="http://www.carfax.com/VehicleHistory/p/Report.cfx?partner=BDW_3&amp;vin=1G1ND52F45M246695" id="" rel="">
+                                <img src="https://di-uploads-pod3.dealerinspire.com/jimshorkeyautogroup/uploads/2016/10/Carfax-smaller-.png" alt="" class="loading">
+                                            </a>
+        
+    </div>
+</div>
+
+        
+	<div class="button-bar-item primary-cta">  
+    	    
+	                
+        <a class="fancy button-form button cta-button" href="#gravity-form-1" data-mobile-url="/mobile-best-price/" data-form-id="1" data-vehicle="{&quot;model_year&quot;:&quot;2005&quot;,&quot;make&quot;:&quot;Chevrolet&quot;,&quot;model&quot;:&quot;Malibu&quot;,&quot;trim&quot;:&quot;&quot;,&quot;vin&quot;:&quot;1G1ND52F45M246695&quot;,&quot;link&quot;:&quot;http:\/\/www.jimshorkey.com\/inventory\/2005-chevrolet-malibu-fwd-4d-sedan-1g1nd52f45m246695&quot;,&quot;stock&quot;:&quot;K08002B&quot;,&quot;type&quot;:&quot;used&quot;,&quot;dealer_id&quot;:&quot;MP9536&quot;,&quot;ext_color&quot;:&quot;Beige&quot;,&quot;int_color&quot;:&quot;Neutral&quot;,&quot;miles&quot;:&quot;88667&quot;,&quot;Location&quot;:&quot;&quot;}">
+        Get e-Price        </a>
+              	</div>
+    </div>
+<!-- // BUTTON BAR --> 
+		</div>
