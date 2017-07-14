@@ -36,7 +36,7 @@ def search():
     for item in soup.find_all('postingbody', attrs={"class": "result-row"}):
         
 
-    reusables.list_to_csv(data[-100:], local_csv_file)
+    reusables.list_to_csv(data[:], local_csv_file)
 
     print("done")
 
